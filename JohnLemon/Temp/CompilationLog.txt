@@ -1,2 +1,24 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/goinfre/jberegon/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b417c0fdf02d84a0a98c9f28b78e84cc
+# Starting compiling UnityEngine.UI.dll
+/goinfre/jberegon/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9d8f1458a685b4b2e96e148c7f4d4a3f
+# Starting compiling Unity.Timeline.dll
+/goinfre/jberegon/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-252318a7ecf22447990b8d6a9ffb6aa4
+# Starting compiling Unity.TextMeshPro.dll
+/goinfre/jberegon/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4572680d3affa4ed2bc9d6304aba9837
+# Starting compiling UnityEngine.Advertisements.dll
+/goinfre/jberegon/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ef5e13b16c2e34ce597ae5f16190eded
+# Starting compiling UnityEngine.SpatialTracking.dll
+/goinfre/jberegon/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ef7fc7b7edad240d68d503a8e663a6cd
+# Starting compiling Unity.Analytics.DataPrivacy.dll
+/goinfre/jberegon/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f88ea64f724e64a3692a442ee8b9e73e
+# Starting compiling Unity.Postprocessing.Runtime.dll
+/goinfre/jberegon/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-168c91bdb4d754d6a9e8d8c86a29677a
+# Starting compiling UnityEngine.XR.LegacyInputHelpers.dll
+/goinfre/jberegon/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-49e1df5628c5040f99f95bd1653de493
+# Starting compiling UnityEngine.Monetization.dll
+/goinfre/jberegon/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-57d7a0818de5549ffad70e7efe59a8d3
+# Starting compiling Cinemachine.dll
+/goinfre/jberegon/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6ef886e63b3de482cbd02fa6fd6dcf50
 # Starting compiling Assembly-CSharp.dll
-/goinfre/jberegon/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f281a12089fe24f38a07796e21d06be0
+/goinfre/jberegon/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a9f118290f91f44ecbfeecd3a8a3893c

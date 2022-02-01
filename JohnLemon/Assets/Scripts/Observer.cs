@@ -11,7 +11,10 @@ public class Observer : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        m_IsPlayerInRange = true;
+        if (other.transform == player)
+        {
+            m_IsPlayerInRange = true;
+        }
     }
 
     void OnTriggerExit(Collider other)
